@@ -9,7 +9,7 @@ Created on Jan 8, 2016
 def main():
     print """
     Hello World, from...
-    Joel Welling
+    Joel S. Welling
     """
 
 
